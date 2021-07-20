@@ -129,13 +129,15 @@ body {
 }
 
 .app-download:nth-child(1) {
-    background-image: url('./img/logos_redes_sociais.png');
+    background-image: url('./img/appstore1.png');
+    width: 12.1rem;
+    height: 3.6rem;
 }
 
 .app-download:nth-child(2) {
-    background-image: url('./img/playstore.png');
-    width: 37%;
-    height: 4.431rem;
+    background-image: url('./img/playstore1.png');
+    width: 12.3rem;
+    height: 3.7rem;
 }
 
 @media (max-width: 1024px) {
